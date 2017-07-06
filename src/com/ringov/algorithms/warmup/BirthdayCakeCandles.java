@@ -1,6 +1,8 @@
-package com.ringov.algorithms;
+package com.ringov.algorithms.warmup;
 
 /**
+ * Source: https://www.hackerrank.com/challenges/birthday-cake-candles
+ *
  * Created by ringov on 06.07.17.
  */
 public class BirthdayCakeCandles {

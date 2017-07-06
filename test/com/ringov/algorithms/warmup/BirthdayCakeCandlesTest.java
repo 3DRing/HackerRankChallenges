@@ -1,10 +1,11 @@
-package com.ringov.algorithms;
-
+package com.ringov.algorithms.warmup;
 import org.junit.Test;
 
 import static org.junit.Assert.*;
 
 /**
+ * Source: https://www.hackerrank.com/challenges/birthday-cake-candles
+ * <p>
  * Created by ringov on 06.07.17.
  */
 public class BirthdayCakeCandlesTest {
