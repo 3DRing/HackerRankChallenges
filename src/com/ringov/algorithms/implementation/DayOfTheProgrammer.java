@@ -2,6 +2,8 @@ package com.ringov.algorithms.implementation;
 
 
 /**
+ * https://www.hackerrank.com/challenges/day-of-the-programmer
+ *
  * Created by ringov on 06.07.17.
  */
 public class DayOfTheProgrammer {

@@ -5,6 +5,8 @@ import org.junit.Test;
 import static org.junit.Assert.*;
 
 /**
+ * https://www.hackerrank.com/challenges/day-of-the-programmer
+ *
  * Created by ringov on 06.07.17.
  */
 public class DayOfTheProgrammerTest {
