@@ -33,7 +33,7 @@ public class NonDivisibleSubsetTest {
 
     @Test
     public void testCase15() throws Exception {
-        Scanner sc = new Scanner(new File("testcase15.txt"));
+        Scanner sc = new Scanner(new File("NonDivisibleSubset_testcase15.txt"));
         int n = sc.nextInt();
         int k = sc.nextInt();
         int[] arr = new int[n];
